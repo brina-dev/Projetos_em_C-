@@ -1,4 +1,5 @@
-﻿using System;
+// Nesse projeto eu apresento códigos fontes básicos sobre as referencias e valores, e como é usado na linguagem C# e usando a plataforma .NET//
+using System;
 
 namespace Código_em_C_
 {
