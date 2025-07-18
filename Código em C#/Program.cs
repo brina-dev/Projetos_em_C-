@@ -16,7 +16,10 @@ namespace Código_em_C_
             float peso = 47.45f;
             double altura = 1.65;
             string nome = "Sabrina Lima";
+            string s2 = s1 + " World!!!!!!!"; // s1 permanece "Hello" e s2 recebe "Hello World"
 
+            Console.WriteLine(s1); // Saída: Hello
+            Console.WriteLine(s2); // Saída: Hello World
             Console.WriteLine(n1);
             Console.WriteLine(n2);
             Console.WriteLine(n3);
