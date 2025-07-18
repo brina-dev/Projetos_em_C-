@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Referencias e Converções para Nomes", "Referencias e Converções para Nomes.csproj", "{B3DAE5D8-9AED-42D4-B6B5-5753AD76AC5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DAE5D8-9AED-42D4-B6B5-5753AD76AC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DAE5D8-9AED-42D4-B6B5-5753AD76AC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DAE5D8-9AED-42D4-B6B5-5753AD76AC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DAE5D8-9AED-42D4-B6B5-5753AD76AC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A00374-4948-40E9-AEF4-09E1502952E5}
+	EndGlobalSection
+EndGlobal
